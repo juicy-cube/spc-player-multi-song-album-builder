@@ -14,6 +14,7 @@ Builder GUI reads tags from SPC files, but you can edit them by double clicking 
 By clicking BUILD it saves all patched files in `music` folder as song1.spc, song2.spc etc. keeping your original SPCs untouched.
 It also builds two files: album.txt and album_patched.txt.
 The first one (album.txt) contains original file paths and is helpful when you want to change some things later, the second (album_patched.txt) is used to build the ROM.
+Builder requires Python 3.14 and PyQt6 installed.
 
 Output ROM file name is spcplay.smc
 
@@ -22,4 +23,4 @@ Builder GUI written by Gemini Pro AI model.
 
 ==== CHANGELOG
 
-XX.2026: Initial release
+2026.08: v1.0 Initial release
