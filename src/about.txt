@@ -1,0 +1,9 @@
+This ROM was built as an
+extension of the original
+single-song SPCPlay
+(Mic, 2010).
+
+Multi-song support by AceMan
+in 2026 using Claude AI model
+
+v1.0, 08.2026

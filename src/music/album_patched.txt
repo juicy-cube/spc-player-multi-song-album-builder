@@ -1,0 +1,45 @@
+title: SPC Album
+
+music/song1.spc
+Feelin' Indigo
+AceMan
+2018
+
+music/song2.spc
+Krono Spiegel
+AceMan
+2020
+
+music/song3.spc
+Nasty Habits
+AceMan
+2020
+
+music/song4.spc
+One More Chance
+AceMan
+2019
+
+music/song5.spc
+Paper-thin
+AceMan
+2021
+
+music/song6.spc
+SNEStronizer
+AceMan
+2018
+
+music/song7.spc
+Makes Wonder Mix
+cTrix
+
+music/song8.spc
+popping corners
+golgi
+winter chip x lol
+
+music/song9.spc
+aurora surrealis
+Xaser
+
