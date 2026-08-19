@@ -21,6 +21,8 @@ Output ROM file name is spcplay.smc
 All player/patcher code written and debugged by Claude Sonnet 5 AI model. 
 Builder GUI written by Gemini Pro AI model.
 
+See README_full for detailed info and explanations written by LLM itself.
+
 ==== CHANGELOG
 
 2026.08: v1.0 Initial release
